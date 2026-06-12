@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Banner" width="600">
+</p>
+
 ## 👋 About Me
 
 Hi, I’m a curious student who loves exploring weird and interesting things — from the human brain and AI to coding, robotics, space, and creative projects.
