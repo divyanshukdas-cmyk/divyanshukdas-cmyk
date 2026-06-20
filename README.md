@@ -1,47 +1,86 @@
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="600">
+  <img src="assets/banner.gif" alt="Banner" width="60%">
 </p>
 
-<h2 align="center">
-  <em>About Me</em>
-</h2>
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About Me
 
-<br/>
+I’m a curious student who loves exploring how things work and turning random ideas into real projects.
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+My interests move between **Artificial Intelligence**, **coding**, **robotics**, **space science**, and the strange beauty of the **human mind**. I enjoy building small experiments, learning by breaking things, and improving through hands-on projects.
 
-Hi, I’m a curious student who loves exploring weird and interesting things — from the human brain and AI to coding, robotics, space, and creative projects.
-
-I enjoy learning how things work, building small experiments, and turning random ideas into real projects. My main interests are <b>Artificial Intelligence</b>, <b>coding</b>, <b>robotics</b>, <b>space science</b>, and understanding the strange beauty of the human mind.
-
-I believe curiosity is my strongest skill. I may not know everything yet, but I’m always ready to learn, build, fail, fix, and grow.
-
-  </td>
-  <td width="35%" align="center" valign="top">
-    <img src="assets/Lain.gif" width="250" alt="Lain GIF">
-  </td>
-  </tr>
-</table>
+For me, curiosity is the main engine — **learn, build, fail, fix, grow**.
 
 ---
 
-### 🚀 What I’m Interested In
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Main Interests
 
-- 🤖 Artificial Intelligence
-- 💻 Coding & software projects
-- 🧠 Human brain and psychology
-- 🛠️ Robotics and electronics
-- 🌌 Space science and futuristic ideas
-- 🎮 AI in games and simulations
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Coding-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Space_Science-000000?style=for-the-badge&logo=spacex&logoColor=white">
+  <img src="https://img.shields.io/badge/Psychology-000000?style=for-the-badge&logo=brain&logoColor=white">
+  <img src="https://img.shields.io/badge/Game_AI-000000?style=for-the-badge&logo=unity&logoColor=white">
+
+</div>
 
 ---
 
-### ⚡ My Mindset
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
-> Learning. Building. Failing. Fixing. Repeating.
+<div align="center">
 
-I’m here to improve every day, create useful things, and turn crazy ideas into something real.
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java">
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,arduino,linux,blender">
+  </p>
+
+</div>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Currently Exploring
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Game_Development-0D1117?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Space_Tech-0D1117?style=for-the-badge&logo=spacex&logoColor=white">
+
+</div>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Mindset
+
+<p align="center">
+  <b>Learning. Building. Failing. Fixing. Repeating.</b>
+</p>
+
+<p align="center">
+  <i>Curiosity over perfection.</i>
+</p>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshukdas-cmyk&show_icons=true&theme=dark&hide_border=false" height="170">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukdas-cmyk&layout=compact&theme=dark&hide_border=false" height="170">
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshukdas-cmyk&theme=high-contrast&hide_border=false">
+
+</div>
 ```
